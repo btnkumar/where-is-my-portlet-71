@@ -1,0 +1,79 @@
+#_whereismyportlet_WAR_WhereIsMyPortletportlet_remarks {
+	font-size: 12px;
+	font-style: italic;
+	padding-bottom: 20px;
+	color:	orange;
+}
+
+#_whereismyportlet_WAR_WhereIsMyPortletportlet_results {
+	padding-top: 10px;
+}
+
+#_whereismyportlet_WAR_WhereIsMyPortletportlet_details h4 {
+	background-color: gray;
+	border-top: 2px solid white;
+	padding-left: 10px;
+}
+
+#_whereismyportlet_WAR_WhereIsMyPortletportlet_details h4:hover {
+	cursor: pointer;
+}
+
+.header {
+	font-size: 24px;
+	margin: 0;
+	padding: 5px 0;
+	width: 100%;
+}
+
+.header span {
+	color: white;
+	font-size: 100%;
+}
+
+.content {
+	background-color: #EEE;
+	font-size: 120%;
+	font-style: italic;
+	margin: 0;
+	padding: 5px 2.5%;
+	width: 100%;
+}
+
+#wimp_help_layer {
+	display: block;
+	height: 500px;
+	position: absolute;
+	width: 500px;
+	width: 76%;
+}
+
+#wimp_preferences_help {
+	background: white;
+	border: 1px solid green;
+	color: green;
+	padding: 5px;
+	position: absolute;
+	right: 0;
+	top: -23px;
+}
+
+#wimp_tabs_help {
+	background: white;
+	border: 1px solid green;
+	color: green;
+	left: 131px;
+	padding: 5px;
+	position: absolute;
+	top: 5px;
+}
+
+#wimp_form_help {
+	background: white;
+	border: 1px solid green;
+	color: green;
+	left: 25px;
+	padding: 5px;
+	position: absolute;
+	top: 70px;
+}
