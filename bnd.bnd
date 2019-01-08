@@ -1,0 +1,5 @@
+Bundle-Name: where-is-my-portlet-71
+Bundle-SymbolicName: com.lo.admin.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.lo.admin.portlet.constants
+-metatype: *
